@@ -1,0 +1,7 @@
+Shoping List
+
+apple
+oranges
+bananas
+cherries
+carrots
